@@ -1,0 +1,31 @@
+_repo: The-Uninhabited-House_8602
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Riddell, J. H., Mrs.
+    aliases:
+    - Riddell, Charlotte Elizabeth L.
+    - Riddell, Charlotte Eliza Lawson Cowan
+    - Trafford, F. G.
+    - Riddell, Mrs. J. H.
+    birthdate: 1832
+    deathdate: 1906
+    gutenberg_agent_id: '2824'
+    url: http://www.gutenberg.org/2009/agents/2824
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Riddell
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 19th century'
+- !lcsh 'Ghost stories'
+- GITenberg
+title: The Uninhabited House
+url: http://www.gutenberg.org/ebooks/8602
